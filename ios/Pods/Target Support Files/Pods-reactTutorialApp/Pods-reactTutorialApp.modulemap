@@ -1,0 +1,6 @@
+module Pods_reactTutorialApp {
+  umbrella header "Pods-reactTutorialApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
